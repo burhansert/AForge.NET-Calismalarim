@@ -1,0 +1,6 @@
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Goruntu Isleme\Goruntu Isleme\bin\Debug\Goruntu Isleme.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\bin\Debug\Goruntu Isleme.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\obj\Debug\Goruntu Isleme.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\obj\Debug\Goruntu_Isleme.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\obj\Debug\Goruntu_Isleme.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\obj\Debug\Goruntu Isleme.csproj.GenerateResource.Cache

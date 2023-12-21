@@ -1,0 +1,30 @@
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\obj\Debug\Resim Dondurme.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\obj\Debug\Goruntu_Isleme.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\obj\Debug\Goruntu_Isleme.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\obj\Debug\Resim Dondurme.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\bin\Debug\Goruntu Isleme.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\bin\Debug\Goruntu Isleme.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\bin\Debug\Goruntu Isleme.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\bin\Debug\AForge.Imaging.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\bin\Debug\AForge.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\bin\Debug\AForge.Math.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\bin\Debug\AForge.Imaging.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\bin\Debug\AForge.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\bin\Debug\AForge.Math.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\obj\Debug\Goruntu Isleme.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmin Yönünü Değiştirme\Goruntu Isleme\obj\Debug\Goruntu Isleme.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resim Döndürme\Goruntu Isleme\bin\Debug\Goruntu Isleme.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resim Döndürme\Goruntu Isleme\obj\Debug\Goruntu Isleme.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resim Döndürme\Goruntu Isleme\obj\Debug\Goruntu Isleme.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resim Döndürme\Goruntu Isleme\bin\Debug\Goruntu Isleme.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resim Döndürme\Goruntu Isleme\bin\Debug\Goruntu Isleme.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resim Döndürme\Goruntu Isleme\bin\Debug\AForge.Imaging.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resim Döndürme\Goruntu Isleme\bin\Debug\AForge.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resim Döndürme\Goruntu Isleme\bin\Debug\AForge.Math.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resim Döndürme\Goruntu Isleme\bin\Debug\AForge.Imaging.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resim Döndürme\Goruntu Isleme\bin\Debug\AForge.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resim Döndürme\Goruntu Isleme\bin\Debug\AForge.Math.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resim Döndürme\Goruntu Isleme\obj\Debug\Resim Dondurme.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resim Döndürme\Goruntu Isleme\obj\Debug\Goruntu_Isleme.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resim Döndürme\Goruntu Isleme\obj\Debug\Goruntu_Isleme.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resim Döndürme\Goruntu Isleme\obj\Debug\Resim Dondurme.csproj.GenerateResource.Cache

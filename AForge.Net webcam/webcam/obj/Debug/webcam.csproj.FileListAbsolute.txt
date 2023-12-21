@@ -1,0 +1,40 @@
+D:\Masaüstü\webcam\webcam\bin\Debug\webcam.exe
+D:\Masaüstü\webcam\webcam\bin\Debug\webcam.pdb
+D:\Masaüstü\webcam\webcam\bin\Debug\AForge.Video.DirectShow.dll
+D:\Masaüstü\webcam\webcam\bin\Debug\AForge.Video.dll
+D:\Masaüstü\webcam\webcam\bin\Debug\AForge.dll
+D:\Masaüstü\webcam\webcam\bin\Debug\AForge.Video.xml
+D:\Masaüstü\webcam\webcam\bin\Debug\AForge.Video.DirectShow.xml
+D:\Masaüstü\webcam\webcam\bin\Debug\AForge.xml
+D:\Masaüstü\webcam\webcam\obj\Debug\webcam.csprojResolveAssemblyReference.cache
+D:\Masaüstü\webcam\webcam\obj\Debug\webcam.Form1.resources
+D:\Masaüstü\webcam\webcam\obj\Debug\webcam.Properties.Resources.resources
+D:\Masaüstü\webcam\webcam\obj\Debug\webcam.csproj.GenerateResource.Cache
+D:\Masaüstü\webcam\webcam\obj\Debug\webcam.exe
+D:\Masaüstü\webcam\webcam\obj\Debug\webcam.pdb
+D:\Masaüstü\AForge.Net webcam\webcam\obj\Debug\webcam.exe
+D:\Masaüstü\AForge.Net webcam\webcam\obj\Debug\webcam.pdb
+D:\Masaüstü\AForge.Net webcam\webcam\bin\Debug\webcam.exe
+D:\Masaüstü\AForge.Net webcam\webcam\bin\Debug\webcam.pdb
+D:\Masaüstü\AForge.Net webcam\webcam\bin\Debug\AForge.Video.DirectShow.dll
+D:\Masaüstü\AForge.Net webcam\webcam\bin\Debug\AForge.Video.dll
+D:\Masaüstü\AForge.Net webcam\webcam\bin\Debug\AForge.dll
+D:\Masaüstü\AForge.Net webcam\webcam\bin\Debug\AForge.Video.xml
+D:\Masaüstü\AForge.Net webcam\webcam\bin\Debug\AForge.Video.DirectShow.xml
+D:\Masaüstü\AForge.Net webcam\webcam\bin\Debug\AForge.xml
+D:\Masaüstü\AForge.Net webcam\webcam\obj\Debug\webcam.csprojResolveAssemblyReference.cache
+D:\Masaüstü\AForge.Net webcam\webcam\obj\Debug\webcam.Form1.resources
+D:\Masaüstü\AForge.Net webcam\webcam\obj\Debug\webcam.Properties.Resources.resources
+D:\Masaüstü\AForge.Net webcam\webcam\obj\Debug\webcam.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net webcam\webcam\obj\Debug\webcam.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net webcam\webcam\obj\Debug\webcam.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net webcam\webcam\bin\Debug\webcam.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net webcam\webcam\bin\Debug\webcam.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net webcam\webcam\bin\Debug\AForge.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net webcam\webcam\bin\Debug\AForge.Video.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net webcam\webcam\bin\Debug\AForge.Video.DirectShow.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net webcam\webcam\bin\Debug\AForge.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net webcam\webcam\obj\Debug\webcam.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net webcam\webcam\obj\Debug\webcam.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net webcam\webcam\obj\Debug\webcam.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net webcam\webcam\obj\Debug\webcam.csproj.GenerateResource.Cache

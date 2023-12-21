@@ -1,0 +1,29 @@
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\İmza Tespit\İmza Tespit\bin\Debug\İmza Tespit.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\İmza Tespit\İmza Tespit\bin\Debug\İmza Tespit.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\İmza Tespit\İmza Tespit\bin\Debug\İmza Tespit.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\İmza Tespit\İmza Tespit\obj\Debug\İmza Tespit.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\İmza Tespit\İmza Tespit\obj\Debug\İmza_Tespit.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\İmza Tespit\İmza Tespit\obj\Debug\İmza Tespit.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\İmza Tespit\İmza Tespit\obj\Debug\İmza Tespit.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\İmza Tespit\İmza Tespit\obj\Debug\İmza Tespit.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\İmza Tespit\İmza Tespit\obj\Debug\İmza_Tespit.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\İmza Tespit\İmza Tespit\bin\Debug\AForge.Imaging.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\İmza Tespit\İmza Tespit\bin\Debug\AForge.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\İmza Tespit\İmza Tespit\bin\Debug\AForge.Math.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\İmza Tespit\İmza Tespit\bin\Debug\AForge.Imaging.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\İmza Tespit\İmza Tespit\bin\Debug\AForge.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\İmza Tespit\İmza Tespit\bin\Debug\AForge.Math.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\İmza Tespit\İmza Tespit\bin\Debug\İmza Tespit.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\İmza Tespit\İmza Tespit\obj\Debug\İmza Tespit.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\İmza Tespit\İmza Tespit\obj\Debug\İmza Tespit.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\İmza Tespit\İmza Tespit\bin\Debug\İmza Tespit.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\İmza Tespit\İmza Tespit\bin\Debug\İmza Tespit.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\İmza Tespit\İmza Tespit\bin\Debug\AForge.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\İmza Tespit\İmza Tespit\bin\Debug\AForge.Math.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\İmza Tespit\İmza Tespit\bin\Debug\AForge.Imaging.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\İmza Tespit\İmza Tespit\bin\Debug\AForge.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\İmza Tespit\İmza Tespit\bin\Debug\AForge.Math.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\İmza Tespit\İmza Tespit\obj\Debug\İmza Tespit.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\İmza Tespit\İmza Tespit\obj\Debug\İmza_Tespit.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\İmza Tespit\İmza Tespit\obj\Debug\İmza_Tespit.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\İmza Tespit\İmza Tespit\obj\Debug\İmza Tespit.csproj.GenerateResource.Cache

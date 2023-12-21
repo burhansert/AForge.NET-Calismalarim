@@ -1,0 +1,29 @@
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Template Matching\AForge.Net Template Matching\bin\Debug\AForge.Net Template Matching.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Template Matching\AForge.Net Template Matching\obj\Debug\AForge.Net Template Matching.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Template Matching\AForge.Net Template Matching\obj\Debug\AForge.Net_Template_Matching.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Template Matching\AForge.Net Template Matching\obj\Debug\AForge.Net_Template_Matching.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Template Matching\AForge.Net Template Matching\obj\Debug\AForge.Net Template Matching.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Template Matching\AForge.Net Template Matching\bin\Debug\AForge.Net Template Matching.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Template Matching\AForge.Net Template Matching\bin\Debug\AForge.Net Template Matching.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Template Matching\AForge.Net Template Matching\bin\Debug\AForge.Imaging.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Template Matching\AForge.Net Template Matching\bin\Debug\AForge.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Template Matching\AForge.Net Template Matching\bin\Debug\AForge.Math.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Template Matching\AForge.Net Template Matching\bin\Debug\AForge.Imaging.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Template Matching\AForge.Net Template Matching\bin\Debug\AForge.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Template Matching\AForge.Net Template Matching\bin\Debug\AForge.Math.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Template Matching\AForge.Net Template Matching\obj\Debug\AForge.Net Template Matching.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Template Matching\AForge.Net Template Matching\obj\Debug\AForge.Net Template Matching.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net Template Matching\AForge.Net Template Matching\bin\Debug\AForge.Net Template Matching.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net Template Matching\AForge.Net Template Matching\bin\Debug\AForge.Net Template Matching.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net Template Matching\AForge.Net Template Matching\bin\Debug\AForge.Net Template Matching.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net Template Matching\AForge.Net Template Matching\bin\Debug\AForge.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net Template Matching\AForge.Net Template Matching\bin\Debug\AForge.Math.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net Template Matching\AForge.Net Template Matching\bin\Debug\AForge.Imaging.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net Template Matching\AForge.Net Template Matching\bin\Debug\AForge.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net Template Matching\AForge.Net Template Matching\bin\Debug\AForge.Math.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net Template Matching\AForge.Net Template Matching\obj\Debug\AForge.Net Template Matching.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net Template Matching\AForge.Net Template Matching\obj\Debug\AForge.Net_Template_Matching.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net Template Matching\AForge.Net Template Matching\obj\Debug\AForge.Net_Template_Matching.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net Template Matching\AForge.Net Template Matching\obj\Debug\AForge.Net Template Matching.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net Template Matching\AForge.Net Template Matching\obj\Debug\AForge.Net Template Matching.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.Net Template Matching\AForge.Net Template Matching\obj\Debug\AForge.Net Template Matching.pdb

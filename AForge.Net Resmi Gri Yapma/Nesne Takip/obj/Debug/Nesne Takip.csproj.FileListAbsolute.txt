@@ -1,0 +1,30 @@
+D:\Masaüstü\test\Nesne Takip\Nesne Takip\bin\Debug\Nesne Takip.exe
+D:\Masaüstü\test\Nesne Takip\Nesne Takip\bin\Debug\Nesne Takip.pdb
+D:\Masaüstü\test\Nesne Takip\Nesne Takip\bin\Debug\AForge.dll
+D:\Masaüstü\test\Nesne Takip\Nesne Takip\bin\Debug\AForge.Imaging.dll
+D:\Masaüstü\test\Nesne Takip\Nesne Takip\bin\Debug\AForge.Math.dll
+D:\Masaüstü\test\Nesne Takip\Nesne Takip\bin\Debug\AForge.xml
+D:\Masaüstü\test\Nesne Takip\Nesne Takip\bin\Debug\AForge.Imaging.xml
+D:\Masaüstü\test\Nesne Takip\Nesne Takip\bin\Debug\AForge.Math.xml
+D:\Masaüstü\test\Nesne Takip\Nesne Takip\obj\Debug\Nesne Takip.csprojResolveAssemblyReference.cache
+D:\Masaüstü\test\Nesne Takip\Nesne Takip\obj\Debug\Nesne_Takip.Form1.resources
+D:\Masaüstü\test\Nesne Takip\Nesne Takip\obj\Debug\Nesne_Takip.Properties.Resources.resources
+D:\Masaüstü\test\Nesne Takip\Nesne Takip\obj\Debug\Nesne Takip.csproj.GenerateResource.Cache
+D:\Masaüstü\test\Nesne Takip\Nesne Takip\obj\Debug\Nesne Takip.exe
+D:\Masaüstü\test\Nesne Takip\Nesne Takip\obj\Debug\Nesne Takip.pdb
+D:\Masaüstü\AForge.Net Nesne Takip\Nesne Takip\obj\Debug\Nesne Takip.exe
+D:\Masaüstü\AForge.Net Nesne Takip\Nesne Takip\obj\Debug\Nesne Takip.pdb
+D:\Masaüstü\AForge.Net Resmi Gri Yapma\Nesne Takip\obj\Debug\Nesne Takip.exe
+D:\Masaüstü\AForge.Net Resmi Gri Yapma\Nesne Takip\obj\Debug\Nesne Takip.pdb
+D:\Masaüstü\AForge.Net Resmi Gri Yapma\Nesne Takip\bin\Debug\Nesne Takip.exe
+D:\Masaüstü\AForge.Net Resmi Gri Yapma\Nesne Takip\bin\Debug\Nesne Takip.pdb
+D:\Masaüstü\AForge.Net Resmi Gri Yapma\Nesne Takip\bin\Debug\AForge.Math.dll
+D:\Masaüstü\AForge.Net Resmi Gri Yapma\Nesne Takip\bin\Debug\AForge.xml
+D:\Masaüstü\AForge.Net Resmi Gri Yapma\Nesne Takip\bin\Debug\AForge.Imaging.xml
+D:\Masaüstü\AForge.Net Resmi Gri Yapma\Nesne Takip\bin\Debug\AForge.Math.xml
+D:\Masaüstü\AForge.Net Resmi Gri Yapma\Nesne Takip\obj\Debug\Nesne Takip.csprojResolveAssemblyReference.cache
+D:\Masaüstü\AForge.Net Resmi Gri Yapma\Nesne Takip\obj\Debug\Nesne_Takip.Form1.resources
+D:\Masaüstü\AForge.Net Resmi Gri Yapma\Nesne Takip\obj\Debug\Nesne_Takip.Properties.Resources.resources
+D:\Masaüstü\AForge.Net Resmi Gri Yapma\Nesne Takip\obj\Debug\Nesne Takip.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmi Gri Yapma\Nesne Takip\obj\Debug\Nesne Takip.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmi Gri Yapma\Nesne Takip\obj\Debug\Nesne Takip.pdb

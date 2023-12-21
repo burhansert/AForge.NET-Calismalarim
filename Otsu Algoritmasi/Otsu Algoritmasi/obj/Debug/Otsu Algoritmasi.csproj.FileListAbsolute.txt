@@ -1,0 +1,18 @@
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Otsu Algoritmasi\Otsu Algoritmasi\bin\Debug\Otsu Algoritmasi.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Otsu Algoritmasi\Otsu Algoritmasi\bin\Debug\Otsu Algoritmasi.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Otsu Algoritmasi\Otsu Algoritmasi\bin\Debug\Otsu Algoritmasi.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Otsu Algoritmasi\Otsu Algoritmasi\bin\Debug\AForge.Imaging.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Otsu Algoritmasi\Otsu Algoritmasi\bin\Debug\AForge.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Otsu Algoritmasi\Otsu Algoritmasi\bin\Debug\AForge.Math.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Otsu Algoritmasi\Otsu Algoritmasi\bin\Debug\AForge.Imaging.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Otsu Algoritmasi\Otsu Algoritmasi\bin\Debug\AForge.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Otsu Algoritmasi\Otsu Algoritmasi\bin\Debug\AForge.Math.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Otsu Algoritmasi\Otsu Algoritmasi\obj\Debug\Otsu Algoritmasi.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Otsu Algoritmasi\Otsu Algoritmasi\obj\Debug\Otsu_Algoritmasi.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Otsu Algoritmasi\Otsu Algoritmasi\obj\Debug\Otsu_Algoritmasi.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Otsu Algoritmasi\Otsu Algoritmasi\obj\Debug\Otsu Algoritmasi.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Otsu Algoritmasi\Otsu Algoritmasi\obj\Debug\Otsu Algoritmasi.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Otsu Algoritmasi\Otsu Algoritmasi\obj\Debug\Otsu Algoritmasi.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\Otsu Algoritmasi\Otsu Algoritmasi\bin\Debug\Otsu Algoritmasi.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\Otsu Algoritmasi\Otsu Algoritmasi\obj\Debug\Otsu Algoritmasi.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\Otsu Algoritmasi\Otsu Algoritmasi\obj\Debug\Otsu Algoritmasi.pdb

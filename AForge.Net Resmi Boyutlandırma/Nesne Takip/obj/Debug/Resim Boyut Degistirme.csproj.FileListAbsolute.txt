@@ -1,0 +1,13 @@
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmi Boyutlandırma\Nesne Takip\bin\Debug\Nesne Takip.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmi Boyutlandırma\Nesne Takip\bin\Debug\Nesne Takip.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmi Boyutlandırma\Nesne Takip\bin\Debug\AForge.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmi Boyutlandırma\Nesne Takip\bin\Debug\AForge.Math.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmi Boyutlandırma\Nesne Takip\bin\Debug\AForge.Imaging.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmi Boyutlandırma\Nesne Takip\bin\Debug\AForge.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmi Boyutlandırma\Nesne Takip\bin\Debug\AForge.Math.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmi Boyutlandırma\Nesne Takip\obj\Debug\Resim Boyut Degistirme.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmi Boyutlandırma\Nesne Takip\obj\Debug\Nesne_Takip.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmi Boyutlandırma\Nesne Takip\obj\Debug\Nesne_Takip.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmi Boyutlandırma\Nesne Takip\obj\Debug\Resim Boyut Degistirme.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmi Boyutlandırma\Nesne Takip\obj\Debug\Nesne Takip.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.Net Resmi Boyutlandırma\Nesne Takip\obj\Debug\Nesne Takip.pdb

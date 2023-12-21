@@ -1,0 +1,29 @@
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.NET Blob Counter\AForge.NET Blob Counter\bin\Debug\AForge.NET Blob Counter.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.NET Blob Counter\AForge.NET Blob Counter\obj\Debug\AForge.NET Blob Counter.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.NET Blob Counter\AForge.NET Blob Counter\obj\Debug\AForge.NET_Blob_Counter.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.NET Blob Counter\AForge.NET Blob Counter\obj\Debug\AForge.NET_Blob_Counter.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.NET Blob Counter\AForge.NET Blob Counter\obj\Debug\AForge.NET Blob Counter.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.NET Blob Counter\AForge.NET Blob Counter\bin\Debug\AForge.NET Blob Counter.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.NET Blob Counter\AForge.NET Blob Counter\bin\Debug\AForge.NET Blob Counter.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.NET Blob Counter\AForge.NET Blob Counter\bin\Debug\AForge.Imaging.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.NET Blob Counter\AForge.NET Blob Counter\bin\Debug\AForge.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.NET Blob Counter\AForge.NET Blob Counter\bin\Debug\AForge.Math.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.NET Blob Counter\AForge.NET Blob Counter\bin\Debug\AForge.Imaging.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.NET Blob Counter\AForge.NET Blob Counter\bin\Debug\AForge.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.NET Blob Counter\AForge.NET Blob Counter\bin\Debug\AForge.Math.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.NET Blob Counter\AForge.NET Blob Counter\obj\Debug\AForge.NET Blob Counter.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\AForge.NET Blob Counter\AForge.NET Blob Counter\obj\Debug\AForge.NET Blob Counter.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.NET Blob Counter\AForge.NET Blob Counter\bin\Debug\AForge.NET Blob Counter.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.NET Blob Counter\AForge.NET Blob Counter\obj\Debug\AForge.NET Blob Counter.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.NET Blob Counter\AForge.NET Blob Counter\obj\Debug\AForge.NET Blob Counter.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.NET Blob Counter\AForge.NET Blob Counter\bin\Debug\AForge.NET Blob Counter.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.NET Blob Counter\AForge.NET Blob Counter\bin\Debug\AForge.NET Blob Counter.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.NET Blob Counter\AForge.NET Blob Counter\bin\Debug\AForge.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.NET Blob Counter\AForge.NET Blob Counter\bin\Debug\AForge.Math.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.NET Blob Counter\AForge.NET Blob Counter\bin\Debug\AForge.Imaging.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.NET Blob Counter\AForge.NET Blob Counter\bin\Debug\AForge.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.NET Blob Counter\AForge.NET Blob Counter\bin\Debug\AForge.Math.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.NET Blob Counter\AForge.NET Blob Counter\obj\Debug\AForge.NET Blob Counter.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.NET Blob Counter\AForge.NET Blob Counter\obj\Debug\AForge.NET_Blob_Counter.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.NET Blob Counter\AForge.NET Blob Counter\obj\Debug\AForge.NET_Blob_Counter.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\AForge.NET\Benim Kodlarım\AForge.NET Blob Counter\AForge.NET Blob Counter\obj\Debug\AForge.NET Blob Counter.csproj.GenerateResource.Cache
